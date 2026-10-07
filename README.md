@@ -14,6 +14,7 @@ The objective is to transform raw and inconsistent property data into a clean, a
 
 ## Final Dashboard
 
-![Project Screenshot]("C:\Users\Asuus\OneDrive\Desktop\Data Science\Portfolio_projects\Real_estate_data_analysis_dashboard\Real_estate_data_analysis_dashboard\Dashboard_icons\Final_dashboard.png")
+<img width="1917" height="976" alt="Final_dashboard" src="https://github.com/user-attachments/assets/f16f435a-611b-4342-8df3-1146d972b340" />
+
 
 
