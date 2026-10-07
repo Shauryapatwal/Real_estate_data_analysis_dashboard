@@ -1,0 +1,13 @@
+column,data_type,missing_values,missing_percentage,unique_values
+price,Int64,0,0.0,1758
+status,string,0,0.0,4
+area,Int64,0,0.0,2038
+rate_per_sqft,Int64,0,0.0,3928
+property_type,string,0,0.0,1844
+locality,string,0,0.0,244
+builder_name,string,0,0.0,725
+rera_approval,string,0,0.0,2
+bhk_count,Int64,999,7.02,24
+soceity,string,0,0.0,962
+company_name,string,0,0.0,258
+flat_type,string,0,0.0,6

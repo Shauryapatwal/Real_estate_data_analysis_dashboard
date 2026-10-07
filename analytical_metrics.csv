@@ -1,0 +1,17 @@
+metric,value
+total_properties,14223
+average_property_price,39953766.43
+median_property_price,26200000.0
+maximum_property_price,1226300000
+average_area,2621.76
+average_rate_per_sqft,15296.14
+highest_avg_price_locality,baliawas
+highest_locality_avg_price,583333333.33
+highest_rate_locality,sector 42
+highest_locality_avg_rate,55989.08
+ready_to_move_avg_price,41521381.82
+under_construction_avg_price,39579456.44
+rera_approved_avg_price,38607015.6
+not_approved_avg_price,40790151.81
+area_price_correlation,0.197
+most_common_bhk,3
