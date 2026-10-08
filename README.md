@@ -1,5 +1,5 @@
 
-# Real Estate Market Analysis
+# Real Estate Market Analysis | Python Pandas | Power BI 
 
 This project analyzes a real-estate property dataset to identify pricing patterns, locality-level trends, property characteristics, builder performance, and factors associated with property prices.
 
